@@ -1,5 +1,16 @@
 <h2> Hey there! I'm Sithum Ravishka.</h2>
 
+
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Sithum Ravishka</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+</p>
+<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -40,10 +51,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithum-Ravishka&theme=buefy&layout=compact" />
 </a>
 
+<h3> 🔥 &nbsp;Streak Stats </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sithum-Ravishka&" alt="Sithum-Ravishka" /></p>
 
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
