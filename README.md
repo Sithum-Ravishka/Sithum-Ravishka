@@ -40,6 +40,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithum-Ravishka&theme=buefy&layout=compact" />
 </a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sithum-Ravishka&" alt="Sithum-Ravishka" /></p>
+
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
