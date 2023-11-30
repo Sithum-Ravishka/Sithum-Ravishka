@@ -18,7 +18,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Recent graduate with a Bachelor of Science (Hons) in Information Technology from SLIIT.
+- 🎓 &nbsp; Recent Graduate with a Bachelor of Science (Hons) in Information Technology from SLIIT.
 - 🌱 &nbsp; Learning more about Web Development, Mobile Development and UX/UI Design.
 - ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.
 
