@@ -27,6 +27,7 @@
 
 - 💻 &nbsp;
   ![Rust](https://img.shields.io/badge/Rust-333333.svg?style=flat&logo=Rust&logoColor=orange)
+  ![Go](https://img.shields.io/badge/Go-333333.svg?style=flat&logo=Go&logoColor=%23039BE5)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/c-333333.svg?style=flat&logo=c&logoColor=white)
