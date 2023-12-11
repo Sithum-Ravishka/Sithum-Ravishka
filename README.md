@@ -1,7 +1,5 @@
 <h2> Hey there! I'm Sithum Ravishka.</h2>
 
-
-
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Sithum Ravishka</a>'s Profile 👋</h1>
 </p>
