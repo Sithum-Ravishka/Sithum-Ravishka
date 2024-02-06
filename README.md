@@ -1,14 +1,14 @@
 <h2> Hey there! I'm Sithum Ravishka.</h2>
 
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/Sithum-Ravishka">Sithum Ravishka</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/Sithum-Ravishka">My GitHub</a> Profile! 👋</h1>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sithum-Ravishka&label=Profile%20views&color=0e75b6&style=flat" alt="Sithum-Ravishka" /> </p>
 
-<p align="center">
+<!-- <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=0065e6&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Backend+developer" /></a>
-</p>
+</p> -->
 <p>I am a back-end developer, I'm a Competitive Programmer</p>
  
 
